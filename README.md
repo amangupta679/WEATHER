@@ -1,16 +1,7 @@
 # weather
 
-A new Flutter project.
+Hello Every one My name is Aman Gupta and Im an engineering student , this is an app created by me . This app is an UI of a replica of an kind of weather app , I tried creating it by my own and also try to keep updating it . hope you all will like my work thank you.
+![01 03 2022_23 20 26_REC](https://user-images.githubusercontent.com/56467452/156222373-39596e98-bba5-4121-87f6-35f2a5d01244.png)
+![01 03 2022_23 20 06_REC](https://user-images.githubusercontent.com/56467452/156222396-fdd5dfda-0fc7-41d7-9f40-fcea9b8bf6e0.png)
+![01 03 2022_23 19 38_REC](https://user-images.githubusercontent.com/56467452/156222422-69e5d6d1-71a2-4f00-a164-993cba2eee1e.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

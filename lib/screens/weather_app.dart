@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
+// ignore: import_of_legacy_library_into_null_safe
 import 'package:transformer_page_view/transformer_page_view.dart';
 
 import '../models/weather_locations.dart';

@@ -1,0 +1,24 @@
+version: '3'
+
+services:
+  app:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    volumes:
+      - .:/app
+    environment:
+      - FLUTTER_HOME=/flutter
+    command: flutter run --no-sound-null-safety --no-wrap
+
+  flutter:
+    image: cirrusci/flutter:stable
+    environment:
+      - FLUTTER_HOME=/flutter
+    volumes:
+      - flutter:/flutter
+
+volumes:
+  flutter:
